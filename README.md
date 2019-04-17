@@ -4,7 +4,7 @@
 查询快讯列表
 
 ### 1.2 请求说明
-> 请求方式：  
+> 请求方式：POST
 请求URL ：[https://more.ethte.com/auth/newsflash](#)  
 
 ### 1.3 请求参数
